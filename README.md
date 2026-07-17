@@ -18,6 +18,7 @@ The goal of this analysis is to transition raw marketplace data into structural 
 *   **Database Management:** MySQL 8.0 / MySQL Workbench
 *   **Data Engineering:** Advanced SQL Data pipelines, Performance Query Optimization (`CASE WHEN`, Window Functions, `HAVING`, Complex Subqueries)
 *   **Data Ingestion:** Optimized `LOAD DATA LOCAL INFILE` architecture with explicit structural column mapping.
+*   **Dataset Source:** [Kaggle - Zomato Bangalore Restaurants Dataset](https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset)
 
 
 ## 📊 Data Insights & Product Strategy Breakdowns
